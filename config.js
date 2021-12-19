@@ -1,8 +1,8 @@
-const nameGirl = 'Em';
+const nameGirl = 'Anh à ';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 20-10';
+const eventName = 'e thương nhiều lúm ';
 const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc honey của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
+const contentCard = 'Anh dang ngày đêm làm việc có khi là mệt đến không thở nổi mà nói với em rằng " anh mệt quá " , vậy mà nhiều lần vì anh lơ là với em mà em giận hờn anh . Em biết anh đang rất cố gắng để tốt hơn Thương anh , yên tâm anh nhé , em vẫn ở phía sau anh .';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
